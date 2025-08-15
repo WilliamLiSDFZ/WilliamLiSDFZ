@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamLiSDFZ
 - 👀 I’m interested in java coding
-- 🌱 I’m currently learning javaweb and C
+- 🌱 I’m currently learning SpringBoot
 - 📫 Contact me through liyuze2004@gmail.com
 
 <!---
